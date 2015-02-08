@@ -1,2 +1,2 @@
-# website
-Website for the Leeuwenhoek project.
+# Dymensional Website
+This repository will host the Dimensional website

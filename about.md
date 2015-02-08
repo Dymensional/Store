@@ -7,24 +7,27 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is, Aaron Bislip, and i'm what all this website is about.
+I follow a formal education in Architecture at [TU Delft](http://www.tudelft.nl/en/) but in my spare time I dabble in the evolving world of 3D printers. It is a natural extension of my studies and has resulted in utter joy.
 
-There are currently two themes built on Poole:
+This website will host my extracurricular activities; most notably my open-source 3D printing projects.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+There is currently only project on display:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [Leeuwenhook](https://github.com/Dymensional/Leeuwenhoek)
 
-## Setup
+
+Learn more and contribute on [GitHub](https://github.com/Dymensional).
+
+## Another Heading
 
 Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
+* Built for
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Coded with love
+* Website designed and developed by [Dijon Kock](http://kockasaurus.com)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [email me]() or [ask me on Twitter]().
 
 Thanks for reading!

@@ -22,6 +22,7 @@
  * Container
  * Reverse layout
  * Themes
+ * Dijon's Custom
  */
 
 
@@ -252,25 +253,106 @@ a.sidebar-nav-item:focus {
 
 
 /*
- * Dijon's CSS Additions
+ * Dijon's Custom
  *
  * Be Happy.
  */
 
+ /*Bootstrao Copies: Button and Badges */
+ .btn-red {
+
+ }
+
+.badges{
+
+}
+
+
+/* Custom Grid System - using tips from http://css-tricks.com/dont-overthink-it-grids/ */
+.grid {
+  width: 100%;
+}
+.grid p {
+  text-align: center;
+}
+
+.grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+[class*='col-'] {
+  float: left;
+}
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+[class*='col-'] {
+  padding-right: 1rem;
+}
+[class*='col-']:last-of-type {
+  padding-right: 0;
+}
+
+/*first column in teh 3 grid system */
+.col-1-3 {
+  width: 33.33%;
+}
+
+.col-2-3 {
+  width: 33.33%;
+}
+.col-3-3 {
+  width: 33.33%;
+}
+
+/* Try to enforce that the logo and banner always next to each other or at least
+  that logo floats to center when ontop
+@media (max-width: 48em) {
+}
+@media (min-width: 64em) {
+
+}*/
+
+
+/*2grid system */
+.col-1-2{
+  /*vertical-align: center;*/
+  width: 30%;
+  /*background-color: grey;*/
+
+}
+.col-2-2{
+  /*vertical-align: center;*/
+  width: 70%;
+  /*background-color: grey;*/
+}
+
+
+/* 3D Hubs icon */
  .hubs-btn-red {
    display: block;
-   width: 120px;
-   margin: 15px 0;
+   width: 100%;
+   /*margin: 15px 0;*/
    color: #fff;
    background-color: #f65857;
-   border: none; border-radius: 2px;
+   border: none;
+   border-radius: 2px;
    border-bottom: 1px solid #c30c0a;
-   font-family: 'ProximaNova-Regular', Helvetica, Arial, 'Nimbus Sans L', sans-serif;
-   text-decoration: none; text-align: center;
-   line-height: 13px; vertical-align: middle;
+   /*font-family: 'ProximaNova-Regular', Helvetica, Arial, 'Nimbus Sans L', sans-serif;*/
+   text-decoration: none;
+   text-align: center;
+   /*line-height: 13px;*/
+   vertical-align: middle;
    padding: 6px 11px 3px 12px !important;
    text-transform: uppercase;
-   letter-spacing: 1px; font-size: 16px;
+   letter-spacing: 1px;
+   /*font-size: 16px;*/
    -webkit-transition: all 0.15s linear;
    -moz-transition: all 0.15s linear;
    -o-transition: all 0.15s linear;
@@ -280,8 +362,8 @@ a.sidebar-nav-item:focus {
    background-color: #f7706f;
    border-bottom-color: #e50e0c;
  }
- .hubs-btn-red span {
+ /*.hubs-btn-red span {
    display: inline-block;
    vertical-align: top;
    margin: 7px 0 0 12px;
- }
+ }*/

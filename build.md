@@ -8,6 +8,7 @@ Check out my [GitHub page](https://github.com/Dymensional) and get all the files
 
 Follow the steps below:
 >click through to log your process
+
 1. First
 2. Second
 3. Third

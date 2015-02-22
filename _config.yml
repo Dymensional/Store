@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Dymensional
 tagline:          'Open Source 3D Printers'
-description:      'A website to showcase the open-source 3D Printer projects developed by Aaron Bislip.'
+description:      'Home of the RepRap Leeuwenhoek project, an open-source compact, all-in-one 3D printer.'
 url:              http://www.dymensional.com
 baseurl:          /
 

@@ -2,6 +2,8 @@
 _gh_pages
 _site
 .ruby-version
+GemFile.lock
+GemFile
 
 # Numerous always-ignore extensions
 *.diff

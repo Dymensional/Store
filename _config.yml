@@ -17,7 +17,7 @@ author:
   name:           'Dymensional'
   url:            'dymensional.nl'
 
-paginate:         5
+#paginate:         5
 
 # Custom vars
 version:          1.0.0

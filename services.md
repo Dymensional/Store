@@ -7,17 +7,23 @@ order: 2
 ### The 3 Services we offer:
 
 <div class="grid">
-<div class="col-1-3">
-  <a href="https://www.3dhubs.com/den-haag/hubs/dymensional/3dprint" class="hubs-btn-red"><img src="https://www.3dhubs.com/sites/default/files/logo-heart-white-gradient-30px.png?hubid=31829" width="30px"><span>3D Print</span></a>
+<div class="col-1-3 btn-red">
+<p>
+  <a href="https://www.3dhubs.com/den-haag/hubs/dymensional/3dprint">
+  3D Printing <br> powered by 3D Hubs.</a>
+  <br><img src="https://www.3dhubs.com/sites/default/files/logo-heart-white-gradient-30px.png?hubid=31829">
+</p>
 </div>
 
 
-<div class="col-2-3">
-<p>Online Store <br> (scroll below)</p>
+<div class="col-2-3 btn-green">
+<p>Online Store</p>
+<p>Buy a Leeuwenhoek <br>(scroll below).</p>
+<!-- insert down arrow -->
 </div>
 
-<div class="col-3-3">
-<p>CAD Services: 2D & 3D <br> Contact me via email</p>
+<div class="col-3-3 btn-red">
+<p>CAD services: <br>2D & 3D <br> email me.</p>
 </div>
 
 </div>

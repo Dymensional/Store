@@ -260,22 +260,51 @@ a.sidebar-nav-item:focus {
 
  /*Bootstrao Copies: Button and Badges */
  .btn-red {
-
+   background-color: #ac4142;
+   /*vertical-align: center;*/
+   color: #fff;
  }
+
+
+.btn-red a {
+  color: #fff !important;
+}
+
+.btn-red img {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .badges{
 
 }
 
+.btn-green {
+  background-color: #90a959;
+  /*vertical-align: center;*/
+  color: #fff;
+}
+
+
+.btn-green a {
+ color: #fff !important;
+}
+
+.btn-green img {
+ margin-left: auto;
+ margin-right: auto;
+}
 
 /* Custom Grid System - using tips from http://css-tricks.com/dont-overthink-it-grids/ */
 .grid {
   width: 100%;
+  overflow: hidden;/*puts overlap infront of*/*/
 }
 .grid p {
   text-align: center;
 }
 
+/* delets content below from collapsing/overlapping? */
 .grid:after {
   content: "";
   display: table;
@@ -285,6 +314,8 @@ a.sidebar-nav-item:focus {
 
 [class*='col-'] {
   float: left;
+  height: 7rem;
+
 }
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
@@ -292,12 +323,13 @@ a.sidebar-nav-item:focus {
   box-sizing: border-box;
 }
 
-[class*='col-'] {
-  padding-right: 1rem;
+ [class*='col-'] {
+  /*padding-right: 1rem;*/
+  padding-top: 1rem;
 }
-[class*='col-']:last-of-type {
+/*[class*='col-']:last-of-type {
   padding-right: 0;
-}
+} */
 
 /*first column in teh 3 grid system */
 .col-1-3 {

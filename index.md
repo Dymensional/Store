@@ -3,17 +3,43 @@ layout: default
 title: Home
 ---
 <div class="grid">
- <div class="col-1-2"><img src="http://placehold.it/150x150&text=logo"></div>
- <div class="col-2-2"><img src="http://placehold.it/350x150&text=banner"></div>
+ <div class="col-1-2"><img src="/imgs/logo.png"></div>
+ <div class="col-2-2"><img src="/imgs/banner.jpg"></div>
 </div>
 
 <div class="hubs-btn-red">Lead Time: <span>1 Week</span></div>
-Working hard on optimizing the inhouse operations !
+##Welcome to dymensional.nl, I hope you enjoy your stay!
+This website was made to showcase the Leeuwenhoek open-source 3D printer project. Feel free to scroll down for more information. 
 
-# Main Features
-1. Main One
-2. Main Two
-3. Leeuwenhoek
+If you are interested in building your own, check out my build documentation with links to all the files you need!
+
+##About the Leeuwenhoek
+
+All this started as a personal project. I needed a 3D printer that could move with me, and be compact enough to fit in my locker at the TU Delft.
+I could not find a printer that truly fit my needs, so on August 2014 I started designing my own. My first working printer quickly gained popularity and was displayed at the university library’s 3D printing expo, at which point I decided to make it an open source project and finish the design nicely.
+
+It needed a name, so because of its “place of birth” and compact design features, I only found it fitting to name it after none other but the father of microbiology, Antonie van Leeuwenhoek, a fascinating 17-18th century biologist and tradesman from Delft!
+
+Fast forward to march 2015. The design has been brought up to a quality worthy of releasing. Many people wished to buy it, so I decided to start my own business; Dymensional. 
+
+Don’t worry though, all my future work on this and other projects will continue to be open-source.
+
+##Awesome Design Features:
+
+Portability \(rugged enough to be carried around\).
+![Portability](/imgs/portability.jpg "Portability")
+
+Print area etched on the build plate, big margins for your clips! Don’t lose build volume.
+![Print area](/imgs/printaera.jpg "Print Aera")
+
+Protective case for your minitronics. Cable management well-integrated to keep your printer as neat as possible.
+![Minitronics](/imgs/minitronic.jpg "Minitronics")
+
+Easy assembly: you can build a kit in 3-4 hours \(check out the [build guide!](https://github.com/Dymensional/build)\)
+![Assembly](/imgs/assembly.jpg "Build")
+
+
+###[Move to build documentation](https://github.com/Dymensional/build)
 
 
 Got to our [store]({{site.url}}/services) now and browse our available products!

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Build Guides
-order: 1
+order: 2
 ---
 ## Find the Build Guide Here
 Check out my [GitHub page](https://github.com/Dymensional) and get all the files to build your own. Also available on [YouMagine](#)! Continue scrolling down for the build guide, also available as [PDF]()

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Stores & Services
-order: 2
+title: Store & Services
+order: 1
 ---
 
 ### The 3 Services we offer:
@@ -10,7 +10,7 @@ order: 2
 <div class="col-1-3 btn-red">
 <p>
   <a href="https://www.3dhubs.com/den-haag/hubs/dymensional/3dprint">
-  3D Printing <br> powered by 3D Hubs.</a>
+  3D Printing Service <br> powered by 3D Hubs.</a>
   <br><img src="https://www.3dhubs.com/sites/default/files/logo-heart-white-gradient-30px.png?hubid=31829">
 </p>
 </div>
@@ -23,11 +23,10 @@ order: 2
 </div>
 
 <div class="col-3-3 btn-red">
-<p>CAD services: <br>2D & 3D <br> email me.</p>
+<p>CAD services: <br>2D & 3D <br> <a href="mailto:bislip@dymensional.nl">email me.</a></p>
 </div>
-
+<p>All prices exclude tax and shipping, unless otherwise stated.</p>
 </div>
-
 
 <div id="my-store-6571045"></div>
 <div>

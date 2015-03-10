@@ -24,38 +24,51 @@ Don’t worry though, all my future work on this and other projects will continu
 
 ##Awesome Design Features:
 
-
-Portability \(rugged enough to be carried around\).
-![Portability](/imgs/portability.jpg "Portability")
-
-Print area etched on the build plate, big margins for your clips! Don’t lose build volume.
-![Print area](/imgs/printaera.jpg "Print Aera")
-
-Protective case for your minitronics. Cable management well-integrated to keep your printer as neat as possible.
-![Minitronics](/imgs/minitronic.jpg "Minitronics")
-
-Easy assembly: you can build a kit in 3-4 hours \(check out the [build guide!]({{site.url}}/build)\)
-![Assembly](/imgs/assembly.jpg "Build")
-
-Protective case for your minitronics. Cable management well-integrated to keep your printer as neat as possible.
-![Minitronics](/imgs/minitronic.jpg "Minitronics")
-
-All-in one package: filament, power supply and all the essentials are part of a whole design.
-![Printer](/imgs/print1.jpg "printer")
-
-If you own a printer, you probably know annoying it can be to level your bed. Not anymore.
-![Printer](/imgs/print2.jpg "printer")
-
-Accessibility to virtually all key parts, easy to refill filament, low maintenance.
-![Printer](/imgs/print3.jpg "printer")
-
-Fit to your locker easily.
-![Locker](/imgs/locker.jpg "locker")
+<table>
+<tr>
+     <td><img src="/imgs/portability.jpg" alt="Portability"></td>
+     <td><img src="/imgs/printaera.jpg" alt="Print aera"></td>
+</tr>
+   <tr>
+       <td>Portability (rugged enough to be carried around)</td>
+       <td>Print area etched on the build plate, big margins for your clips! Don’t lose build volume.</td>
+   </tr>
+</table>
+<table>
+	<tr>
+     <td><img src="/imgs/minitronic.jpg" alt="minitronic"></td>
+     <td><img src="/imgs/assembly.jpg" alt="Build"></td>
+</tr>
+   <tr>
+       <td>Protective case for your minitronics. Cable management well-integrated to keep your printer as neat as possible.</td>
+       <td>Easy assembly: you can build a kit in 3-4 hours (<a href="http://dymensional.github.io/build/">check out the build guide!</a>)</td>
+   </tr>
+</table>
+<table>
+	<tr>
+     <td><img src="/imgs/print1.jpg" alt="printer"></td>
+     <td><img src="/imgs/print2.jpg" alt="printer"></td>
+</tr>
+   <tr>
+       <td>All-in one package: filament, power supply and all the essentials are part of a whole design.</td>
+       <td>If you own a printer, you probably know annoying it can be to level your bed. Not anymore.</td>
+   </tr>
+</table>
+<table>
+	<tr>
+     <td><img src="/imgs/print3.jpg" alt="printer"></td>
+     <td><img src="/imgs/locker.jpg" alt="locker"></td>
+</tr>
+   <tr>
+       <td>Accessibility to virtually all key parts, easy to refill filament, low maintenance.</td>
+       <td>Fit to your locker easily.</td>
+   </tr>
+</table>
 
 Dutch design: as much of the design as possible comes from the Netherlands. I also chose to use the high quality minitronics board by reprapworld as standard. I know you’ll love it.
-![Mainboard](/imgs/locker.jpg "mainboard")
+![Mainboard](/imgs/mainboard.jpg "mainboard")
 
-###[Move to build documentation]({{site.url}}/build)
+###[Move to build documentation](http://dymensional.github.io/build/)
 
 
-Got to our [store]({{site.url}}/services) now and browse our available products!
+Got to our [store](http://dymensional.github.io/services/) now and browse our available products!

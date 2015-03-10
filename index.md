@@ -49,7 +49,7 @@ If you own a printer, you probably know annoying it can be to level your bed. No
 Accessibility to virtually all key parts, easy to refill filament, low maintenance.
 ![Printer](/imgs/print3.jpg "printer")
 
-Fit to your locker esasily.
+Fit to your locker easily.
 ![Locker](/imgs/locker.jpg "locker")
 
 Dutch design: as much of the design as possible comes from the Netherlands. I also chose to use the high quality minitronics board by reprapworld as standard. I know you’ll love it.

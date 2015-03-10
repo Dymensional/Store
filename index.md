@@ -2,12 +2,10 @@
 layout: default
 title: Home
 ---
-<div class="grid">
- <div class="col-1-2"><img src="/imgs/logo.png"></div>
- <div class="col-2-2"><img src="/imgs/banner.jpg"></div>
-</div>
 
-<div class="hubs-btn-red">Lead Time: <span>1 Week</span></div>
+
+![header](/imgs/header.jpg "header")
+
 ##Welcome to dymensional.nl, I hope you enjoy your stay!
 This website was made to showcase the Leeuwenhoek open-source 3D printer project. Feel free to scroll down for more information. 
 
@@ -26,6 +24,7 @@ Don’t worry though, all my future work on this and other projects will continu
 
 ##Awesome Design Features:
 
+
 Portability \(rugged enough to be carried around\).
 ![Portability](/imgs/portability.jpg "Portability")
 
@@ -35,11 +34,28 @@ Print area etched on the build plate, big margins for your clips! Don’t lose b
 Protective case for your minitronics. Cable management well-integrated to keep your printer as neat as possible.
 ![Minitronics](/imgs/minitronic.jpg "Minitronics")
 
-Easy assembly: you can build a kit in 3-4 hours \(check out the [build guide!](https://github.com/Dymensional/build)\)
+Easy assembly: you can build a kit in 3-4 hours \(check out the [build guide!]({{site.url}}/build)\)
 ![Assembly](/imgs/assembly.jpg "Build")
 
+Protective case for your minitronics. Cable management well-integrated to keep your printer as neat as possible.
+![Minitronics](/imgs/minitronic.jpg "Minitronics")
 
-###[Move to build documentation](https://github.com/Dymensional/build)
+All-in one package: filament, power supply and all the essentials are part of a whole design.
+![Printer](/imgs/print1.jpg "printer")
+
+If you own a printer, you probably know annoying it can be to level your bed. Not anymore.
+![Printer](/imgs/print2.jpg "printer")
+
+Accessibility to virtually all key parts, easy to refill filament, low maintenance.
+![Printer](/imgs/print3.jpg "printer")
+
+Fit to your locker esasily.
+![Locker](/imgs/locker.jpg "locker")
+
+Dutch design: as much of the design as possible comes from the Netherlands. I also chose to use the high quality minitronics board by reprapworld as standard. I know you’ll love it.
+![Mainboard](/imgs/locker.jpg "mainboard")
+
+###[Move to build documentation]({{site.url}}/build)
 
 
 Got to our [store]({{site.url}}/services) now and browse our available products!

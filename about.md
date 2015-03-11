@@ -1,34 +1,21 @@
 ---
 layout: page
-title: About
+title: About Dymensional
 order: 3
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Dymensional is a startup company, founded by Daniel Aaron Bislip in the Netherlands. Its main focus is to facilitate 3D printing through the sale of Leeuwenhoek 3D printers.
 
-My name is, Aaron Bislip, and i'm what all this website is about.
-I follow a formal education in Architecture at [TU Delft](http://www.tudelft.nl/en/) but in my spare time I dabble in the evolving world of 3D printers. It is a natural extension of my studies and has resulted in utter joy.
+Aside from that, dymensional offers 2D and 3D design services at a very competitive price. Everything is run and done by Mr. Bislip
+ 
+With the earnings from Dymensional, he can finance the continued development of the Leeuwenhoek project.
 
-This website will host my extracurricular activities; most notably my open-source 3D printing projects.
+##Contact:
+If you have any questions or comments, please fill in this contact form. You will be answered as quickly as possible.
 
-There is currently only project on display:
-
-* [Leeuwenhook](https://github.com/Dymensional/Leeuwenhoek)
-
-
-Learn more and contribute on [GitHub](https://github.com/Dymensional).
-
-## Another Heading
-
-Some fun facts about the setup of this project include:
-
-* Built for
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with love
-* Website designed and developed by [Dijon Kock](http://kockasaurus.com)
-
-Have questions or suggestions? Feel free to [email me]() or [ask me on Twitter]().
-
-Thanks for reading!
+<form method="POST" action="//formspree.io/info@dymensional.nl">
+              <input type="email" name="_replyto" placeholder="Your email"><br>
+              <textarea name="message" rows="5" placeholder="Your message"></textarea><br>
+              <input type="text" name="_gotcha" style="display:none">
+              <button type="submit">Send</button>
+</form>

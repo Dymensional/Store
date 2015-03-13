@@ -23,8 +23,8 @@ order: 1
 <div class="col-3-3 btn-red">
 <p>CAD services: <br>2D & 3D <br> <a href="mailto:bislip@dymensional.nl">email me.</a></p>
 </div>
-<p align="center">The current lead time between the placement of your order and dispatch is approximately :<span style="color:#ac2e56;"> 7 working days</span></p>
-<p style="color:#2571ec;">Current payment options are PayPal and bank transfer (preferred) E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions. I'm currently working on setting up iDEAL as a payment option. Thank you for understanding.</p>
+<p align="center">The current lead time between the placement of your order and dispatch is approximately :<span style="color:#ac2e56;"> N/A </span></p>
+<p style="color:#2571ec;">The store will be open next week. E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions. Thank you for understanding.</p>
 </div>
 
 <div id="my-store-6571045"></div>
@@ -34,4 +34,5 @@ order: 1
 <p align="center">All prices exclude tax and shipping, unless otherwise stated.</p>
 <p>&nbsp;</p>
 <p align="center">Dymensional is a startup company based in the Netherlands.<br>
-KVK: 62691058 | BTW: NL290789813B01 | IBAN: NL66 INGB 0006 7880 56 </p>
+KVK: 62691058 | BTW: NL290789813B01 | IBAN: NL66 INGB 0006 7880 56 <br>
+Pr. Albertlaan 16, Voorburg (not a visiting addrsss), Tel: 06 2216 5702 </p>

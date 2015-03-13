@@ -6,21 +6,20 @@ title: Home
 
 ![header](/imgs/header.jpg "header")
 
-##Welcome to dymensional.nl, I hope you enjoy your stay!
+##Welcome!
 This website was made to showcase the Leeuwenhoek open-source 3D printer project. Feel free to scroll down for more information. 
 
 If you are interested in building your own, check out my build documentation with links to all the files you need!
 
 ##About the Leeuwenhoek
 
-All this started as a personal project. I needed a 3D printer that could move with me, and be compact enough to fit in my locker at the TU Delft.
+All this started as a personal project. I needed a 3D printer that could move with me, and be compact enough to fit in my locker at the TU Delft. (For many more design features, scroll down.)
 I could not find a printer that truly fit my needs, so on August 2014 I started designing my own. My first working printer quickly gained popularity and was displayed at the university library’s 3D printing expo, at which point I decided to make it an open source project and finish the design nicely.
 
 It needed a name, so because of its “place of birth” and compact design features, I only found it fitting to name it after none other but the father of microbiology, Antonie van Leeuwenhoek, a fascinating 17-18th century biologist and tradesman from Delft!
 
-Fast forward to march 2015. The design has been brought up to a quality worthy of releasing. Many people wished to buy it, so I decided to start my own business; Dymensional. 
+Fast forward to march 2015. The design has been brought up to a quality worthy of releasing. Many people wished to buy it, so I decided to start my own business; Dymensional. With it, I will be able to finance further development of this and many other projects.
 
-Don’t worry though, all my future work on this and other projects will continue to be open-source.
 
 ##Awesome Design Features:
 
@@ -68,7 +67,7 @@ Don’t worry though, all my future work on this and other projects will continu
 Dutch design: as much of the design as possible comes from the Netherlands. I also chose to use the high quality minitronics board by reprapworld as standard. I know you’ll love it.
 ![Mainboard](/imgs/mainboard.jpg "mainboard")
 
-###[Move to build documentation](http://dymensional.github.io/build/)
+###[Go to build documentation](http://dymensional.github.io/build/)
 
 
-Got to our [store](http://dymensional.github.io/services/) now and browse our available products!
+Go to my [store](http://dymensional.github.io/services/) now and browse our available products!

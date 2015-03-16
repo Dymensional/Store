@@ -23,7 +23,7 @@ If you have any questions or comments, please fill in this contact form. You wil
 </form>
 </div>
 
-##Partners:
+##Partners & links
 
 [Lindobox](http://www.lindobox.com) - Entertainment System
 

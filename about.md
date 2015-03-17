@@ -16,7 +16,7 @@ If you have any questions or comments, please fill in this contact form. You wil
 <form method="POST" action="//formspree.io/info@dymensional.nl">
 				<p>Your Email :<br>
               <input type="email" name="_replyto" placeholder="Your email"></p>
-              <p>Your Message: (Please don't forget to give me your phone number)<br>
+              <p>Your Message: (Please don't forget to include your phone number)<br>
               <textarea rows="10" cols="70" name="message" placeholder="Your message + phone number"></textarea></p>
               <input type="text" name="_gotcha" style="display:none">
               <button type="submit">Send</button>

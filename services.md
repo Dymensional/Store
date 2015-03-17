@@ -23,8 +23,8 @@ order: 1
 <div class="col-3-3 btn-red">
 <p>CAD services: <br>2D & 3D <br> <a href="mailto:bislip@dymensional.nl">email me.</a></p>
 </div>
-<p align="center">The current lead time between the placement of your order and dispatch is approximately :<span style="color:#ac2e56;"> N/A </span></p>
-<p style="color:#2571ec;">The store will be open next week. E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions. Thank you for understanding.</p>
+<p align="center">The current lead time between the placement of your order and dispatch is approximately :<span style="color:#ac2e56;"> 7 working days </span></p>
+<p style="color:#2571ec;">The store is open for business! E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions. Thank you for understanding.</p>
 </div>
 
 <div id="my-store-6571045"></div>

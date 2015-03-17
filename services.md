@@ -35,4 +35,4 @@ order: 1
 <p>&nbsp;</p>
 <p align="center">Dymensional is a startup company based in the Netherlands.<br>
 KVK: 62691058 | BTW: NL290789813B01 | IBAN: NL66 INGB 0006 7880 56 <br>
-Pr. Albertlaan 16, Voorburg (not a visiting addrsss), Tel: 06 2216 5702 </p>
+Pr. Albertlaan 16, Voorburg (not a visiting addrsss) </p>

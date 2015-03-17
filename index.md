@@ -60,7 +60,7 @@ Fast forward to march 2015. The design has been brought up to a quality worthy o
 </tr>
    <tr>
        <td>Accessibility to virtually all key parts, easy to refill filament, low maintenance.</td>
-       <td>Fit to your locker easily.</td>
+       <td>Easily fits in your locker.</td>
    </tr>
 </table>
 

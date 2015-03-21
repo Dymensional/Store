@@ -21,7 +21,7 @@ order: 1
 </div>
 
 <div class="col-3-3 btn-red">
-<p>CAD services: <br>2D & 3D <br> <a href="mailto:bislip@dymensional.nl">email me.</a></p>
+<p>CAD services: <br>2D & 3D €29/hr incl<br> <a href="mailto:bislip@dymensional.nl">email me.</a></p>
 </div>
 <p align="center">The current lead time between the placement of your order and dispatch is approximately :<span style="color:#ac2e56;"> N/A </span></p>
 <p style="color:#2571ec;">The store is currently closed. E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions. Thank you for understanding.</p>

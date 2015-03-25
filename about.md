@@ -28,3 +28,5 @@ If you have any questions or comments, please fill in this contact form. You wil
 [Lindobox](http://www.lindobox.com) - Entertainment System
 
 [3DHubs](https://www.3dhubs.com/den-haag/hubs/dymensional) - 3D printing services
+
+[ReprapWorld](http://reprapworld.com) - 3D printer components, filament

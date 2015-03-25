@@ -64,8 +64,9 @@ Fast forward to march 2015. The design has been brought up to a quality worthy o
    </tr>
 </table>
 
-Dutch design: as much of the design as possible comes from the Netherlands. I also chose to use the high quality minitronics board by reprapworld as standard. I know you’ll love it.
 ![Mainboard](/imgs/mainboard.jpg "mainboard")
+
+Dutch design: as much of the design as possible comes from the Netherlands. I also chose to use the high quality minitronics board by reprapworld as standard. I know you’ll love it.
 
 ###[Go to build documentation](http://dymensional.github.io/build/)
 

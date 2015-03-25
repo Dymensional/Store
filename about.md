@@ -25,8 +25,12 @@ If you have any questions or comments, please fill in this contact form. You wil
 
 ##Partners & links
 
-[Lindobox](http://www.lindobox.com) - Entertainment System
+<img src="http://reprapworld.com/templates/default/images/visuals/batavi_welcome.gif" alt="reprapworld">
+[ReprapWorld](http://reprapworld.com) - 3D printer components, filament
 
+<img src="http://upload.wikimedia.org/wikipedia/en/thumb/d/df/3D-Hubs-logo-vertical.png/233px-3D-Hubs-logo-vertical.png" alt="3D Hubs">
 [3DHubs](https://www.3dhubs.com/den-haag/hubs/dymensional) - 3D printing services
 
-[ReprapWorld](http://reprapworld.com) - 3D printer components, filament
+<img src="http://www.lindobox.com/img/logo8.png" alt="LindoBox">
+[Lindobox](http://www.lindobox.com) - Entertainment System
+

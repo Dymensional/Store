@@ -30,7 +30,7 @@ Fast forward to march 2015. The design has been brought up to a quality worthy o
 </tr>
    <tr>
        <td>Portability (rugged enough to be carried around)</td>
-       <td>Print area etched on the build plate, big margins for your clips! Don’t lose build volume.</td>
+       <td>Print area (200x150mm) etched on the build plate, big margins for your clips! Don’t lose build volume.</td>
    </tr>
 </table>
 <table>

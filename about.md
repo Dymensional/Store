@@ -10,14 +10,14 @@ Aside from that, dymensional offers 2D and 3D design services at a very competit
  
 With the earnings from Dymensional, he can finance the continued development of the Leeuwenhoek project.
 
-##Contact:
-If you have any questions or comments, please fill in this contact form. You will be answered as quickly as possible.
+##Contact & mailing list:
+If you have any questions or comments, please fill in this contact form. You will be answered as quickly as possible. If you want to  be part of the mailing list, please just include your e-mail with the message "Mailing list"
 <div align="center">
 <form method="POST" action="//formspree.io/info@dymensional.nl">
-				<p>Your Email :<br>
+				<p>Your e-mail :<br>
               <input type="email" name="_replyto" placeholder="Your email"></p>
-              <p>Your Message: (Please don't forget to include your phone number)<br>
-              <textarea rows="10" cols="70" name="message" placeholder="Your message + phone number"></textarea></p>
+              <p>Your Message:<br>
+              <textarea rows="10" cols="70" name="message" placeholder="Your message"></textarea></p>
               <input type="text" name="_gotcha" style="display:none">
               <button type="submit">Send</button>
 </form>

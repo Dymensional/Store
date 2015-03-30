@@ -74,13 +74,21 @@ Dutch design: as much of the design as possible comes from the Netherlands. I al
 	All contents necessary for building your kit, as described in the bill of materials. Some specifics;
 
 -J-head extruder, 1.75mm filament 0.5mm nozzle
+
 -Minitronics board, SD card reader optional
+
 -Cooling fans for electronics and extruder
+
 -Print volume 200x150x100mm (X,Y,Z) Z axis can be increased on request, please contact before ordering
+
 -Compact power supply included, 12V, 120W (*WARNING*: not compatible with heated beds, which draw too much power!)
+
 -High quality laser cut birch triplex frame
+
 -Strong plastic components
+
 -Mirror build plate, cut to size (*WARNING*: some edges will be sharp and could cause injury if not handled with care)
+
 
 ###[Go to build documentation](http://dymensional.github.io/build/)
 

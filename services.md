@@ -23,9 +23,9 @@ order: 1
 <div class="col-3-3 btn-red">
 <p>CAD services: <br>2D & 3D €29/hr incl<br> <a href="mailto:bislip@dymensional.nl">email me.</a></p>
 </div>
-<p align="center">Dymensional is open for business! Orders made until <span style="color:#ac2e56;"> April 24 </span></p>
+<p align="center">Kits ordered until <span style="color:#ac2e56;"> April 24 </span></p>
 <p align="center">will be dispatched (or ready for pickup) by:<span style="color:#ac2e56;"> May 1 </span></p>
-<p style="color:#2571ec;"> E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions.</p>
+<p style="color:#2571ec;"> For loose components there is a one week lead time. E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions.</p>
 </div>
 
 <div id="my-store-6571045"></div>

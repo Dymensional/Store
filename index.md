@@ -68,26 +68,26 @@ Fast forward to march 2015. The design has been brought up to a quality worthy o
 
 Dutch design: as much of the design as possible comes from the Netherlands. I also chose to use the high quality minitronics board by reprapworld as standard. I know you’ll love it.
 
-##Kit specifications
+##Kit specifications (from the store)
 *Please note that images may differ slightly from actual product
 
-	All contents necessary for building your kit, as described in the bill of materials. Some specifics;
+	Everything needed to build your printer, as described in the bill of materials. Some specifics:
 
--J-head extruder, 1.75mm filament 0.5mm nozzle
+-J-head extruder, 1.75mm filament 0.5mm nozzle, optional upgrade to E3D hot end.
 
 -Minitronics board, SD card reader optional
 
 -Cooling fans for electronics and extruder
 
--Print volume 200x150x100mm (X,Y,Z) Z axis can be increased on request, please contact before ordering
+-Print volume 200x150x100mm (X,Y,Z)
 
--Compact power supply included, 12V, 120W (*WARNING*: not compatible with heated beds, which draw too much power!)
+-Compact power supply included, 12V, 120W (**WARNING**: not compatible with heated beds, which draw too much power!)
 
 -High quality laser cut birch triplex frame
 
 -Strong plastic components
 
--Mirror build plate, cut to size (*WARNING*: some edges will be sharp and could cause injury if not handled with care)
+-Mirror build plate, cut to size (**WARNING**: some edges will be sharp and could cause injury if not handled with care)
 
 
 ###[Go to build documentation](http://dymensional.github.io/build/)

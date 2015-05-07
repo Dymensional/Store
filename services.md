@@ -23,7 +23,7 @@ order: 1
 <div class="col-3-3 btn-red">
 <p>CAD services: <br>2D & 3D €29/hr<br> <a href="mailto:bislip@dymensional.nl">email me.</a></p>
 </div>
-<p style="color:#2571ec;"> There is a one week lead time for purchases. E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions.</p>
+<p style="color:#2571ec;"> There is a one week lead time for "0 item stock"(in store) purchases. E-mail: <a href="mailto:info@dymensional.nl">info@dymensional.nl</a> for questions.</p>
 </div>
 
 <div id="my-store-6571045"></div>

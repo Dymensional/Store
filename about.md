@@ -6,9 +6,6 @@ order: 3
 
 Dymensional is a startup company, founded by Daniel Aaron Bislip in the Netherlands. Its main focus is to facilitate 3D printing through the sale of Leeuwenhoek 3D printers.
 
-Aside from that, dymensional offers 2D and 3D design services at a very competitive price. Everything is run and done by Mr. Bislip
- 
-With the earnings from Dymensional, he can finance the continued development of the Leeuwenhoek project.
 
 ##Contact & mailing list:
 If you have any questions or comments, please fill in this contact form. You will be answered as quickly as possible. If you want to  be part of the mailing list, please just include your e-mail with the message "Mailing list"

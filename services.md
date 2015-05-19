@@ -30,6 +30,31 @@ order: 1
 <div>
 <script type="text/javascript" src="http://app.ecwid.com/script.js?6571045" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(3,3) list(10) table(20)","categoryView=grid","searchView=list","id=my-store-6571045");</script>
 </div>
+
+##Kit specifications
+*Please note that images may differ slightly from actual product
+
+	Everything needed to build your printer, as described in the bill of materials. Some specifics:
+
+-E3D Lite6 high quality hot end.
+
+-Minitronics board, SD card reader optional
+
+-Two cooling fans: for electronics and extruder
+
+-Print volume 200x150x100mm (X,Y,Z)
+
+-Compact power supply included, 12V, 120W (not compatible with heated beds, which draw too much power!)
+
+-High quality laser cut birch triplex frame
+
+-Strong plastic components
+
+-Mirror build plate, cut to size (some edges will be sharp and could cause injury if not handled with care)
+
+
+###[Go to build documentation](http://dymensional.github.io/build/)
+
 <p align="center">All prices include tax and exclude shipping, unless otherwise stated.</p>
 <p>&nbsp;</p>
 <p align="center">Dymensional is a startup company based in the Netherlands.<br>

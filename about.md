@@ -21,13 +21,21 @@ If you have any questions or comments, please fill in this contact form. You wil
 </div>
 
 ##Partners & links
-
-<img src="http://reprapworld.com/templates/default/images/visuals/batavi_welcome.gif" alt="reprapworld">
-[ReprapWorld](http://reprapworld.com) - 3D printer components, filament
-
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/d/df/3D-Hubs-logo-vertical.png/233px-3D-Hubs-logo-vertical.png" alt="3D Hubs">
-[3DHubs](https://www.3dhubs.com/den-haag/hubs/dymensional) - 3D printing services
-
-<img src="http://www.lindobox.com/img/logo8.png" alt="LindoBox">
-[Lindobox](http://www.lindobox.com) - Entertainment System
-
+<div style="width:25%; float:left; margin-right:8%" >
+	<a href="http://reprapworld.com">
+		<img src="http://reprapworld.com/templates/default/images/visuals/batavi_welcome.gif" alt="reprapworld">
+	</a>
+	<p>3D printer components, filament</p>
+</div>
+<div  style="width:25%; float:left; margin-right:8%" >
+	<a href="https://www.3dhubs.com/den-haag/hubs/dymensional">
+		<img src="http://upload.wikimedia.org/wikipedia/en/thumb/d/df/3D-Hubs-logo-vertical.png/233px-3D-Hubs-logo-vertical.png" alt="3D Hubs">
+	</a>
+	<p>3D printing services</p>
+</div>
+<div  style="width:25%; float:left; margin-right:8%" >
+	<a href="https://www.luxigo.nl/">
+		<img src="/imgs/luxigo.png" alt="Luxigo">
+	</a>
+	<p>Lasersnijden en graveren</p>
+</div>

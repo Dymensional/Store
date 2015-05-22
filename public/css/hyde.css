@@ -76,6 +76,34 @@ html {
   color: #fff;
 }
 
+/* Sidebar icons */
+.social-icon {
+  width:20%;
+  float:left;
+}
+
+.icon-wrapper {
+  left:40%;
+  right:40%;
+}
+
+/* Arrow link */
+.arrow-link:focus, .arrow-link:hover {
+  text-decoration: none
+}
+
+.arrow-link {
+  font-size:10em;
+  margin-left:25%;
+  color:rgba(0,0,0,0.5)!important;
+}
+
+/* Images alignment */
+.tab {
+  width:50%;
+}
+
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -163,8 +191,8 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
+    margin-left: 13rem;
+    margin-right: 13rem;
   }
 }
 

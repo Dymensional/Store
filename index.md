@@ -13,7 +13,7 @@ If you are interested in building your own, check out my build documentation wit
 
 ##About the Leeuwenhoek
 
-All this started as a personal project. I needed a 3D printer that could move with me, and be compact enough to fit in my locker at the TU Delft. (For many more design features, scroll down.)
+I needed a 3D printer that could move with me, and be compact enough to fit in my locker at the TU Delft. (For many more design features, scroll down.)
 I could not find a printer that truly fit my needs, so on August 2014 I started designing my own. My first working printer quickly gained popularity and was displayed at the university library’s 3D printing expo, at which point I decided to make it an open source project and finish the design nicely.
 
 It needed a name, so because of its “place of birth” and compact design features, I only found it fitting to name it after none other but the father of microbiology, Antonie van Leeuwenhoek, a fascinating 17-18th century biologist and tradesman from Delft!

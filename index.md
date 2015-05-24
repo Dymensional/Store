@@ -18,7 +18,7 @@ I could not find a printer that truly fit my needs, so on August 2014 I started 
 
 It needed a name, so because of its “place of birth” and compact design features, I only found it fitting to name it after none other but the father of microbiology, Antonie van Leeuwenhoek, a fascinating 17-18th century biologist and tradesman from Delft!
 
-Fast forward to march 2015. The design has been brought up to a quality worthy of releasing. Many people wished to buy it, so I decided to start my own business; Dymensional. With it, I will be able to finance further development of this and many other projects.
+The design is now finished and released under the GPLv3 lisence.
 
 
 ##Awesome Design Features:
